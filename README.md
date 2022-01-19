@@ -9,3 +9,4 @@ Omid1377230/Omid1377230 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 git clone https://github.com/Mebus/cupp.git
+chmod +x cup.py
