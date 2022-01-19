@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 git clone https://github.com/Mebus/cupp.git
 chmod +x cup.py
+./cup.py –i
